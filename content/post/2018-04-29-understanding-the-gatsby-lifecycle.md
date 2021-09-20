@@ -1,9 +1,9 @@
 ---
 title: Gas Oven Repair Brisbane
-date: 2018-04-29
+date: 2018-04-28T17:00:00+00:00
 hero: "/images/opera-snapshot_2021-09-20_205104_yandex-com.png"
-excerpt: With the growing community interest in Gatsby, we hope to create more resources
-  that make it easier for anyone to grasp the power of this incredible tool.
+excerpt: 'Gas appliance repairs and installations should therefore be entrusted to
+  professionals. Appliances such as grills, cooktops, '
 timeToRead: 4
 authors:
 - brisbane
