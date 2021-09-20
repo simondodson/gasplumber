@@ -1,182 +1,34 @@
 ---
-title: Building the new Hopper.com in 2018
+title: 'Bosch offers a comprehensive warranty '
 date: 2018-04-31
-hero: /images/hero-2.jpg
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
+hero: "/images/android-chrome-192x192.png"
+excerpt: 'The process of calling Bosch’s customer service line or booking for a service
+  online is pretty simple. '
 timeToRead: 4
 authors:
-  - Dennis Brotzky
+- Dennis Brotzky
 
 ---
+![Bosch Hot Water Brisbane](https://web.archive.org/web/20210303115325im_/https://gasplumbersbrisbane.com.au/content/images/size/w2000/2021/02/WOg0FIkvf8B842zgnC62Vsq809JAf3E-W3cs3VE-QFYPrkiA0m9-9v6qfhwZKLAMKJkjy9_yFA-iRqjg7XiYhsJ_J56zS19SPAcN7omGJRiT2FZZzQWa1Rd9klqtmt55tZkKo7gl.png)
 
-Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+* Bosch has more than 100 years experience in delivering hot water solutions.
+* This has made its innovative products popular among customers in Australia.
+* However, such appliances also get damaged, so customers often turn to specialists who are capable of repairing Bosch products.
 
-At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
-At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+Bosch has an extensive range of revolutionary [hot water solutions that include gas continuous flow systems](https://web.archive.org/web/20210303115325mp_/https://gasplumbersbrisbane.com.au/best-gas-hot-water-system/), electric storage tanks, heat pumps, and more. Its products are designed to suit individual customer needs because they offer energy-efficient solutions in gas continuous flow models and in heat pump designs.
 
-```js
-import React from "react";
-import { graphql, useStaticQuery } from "gatsby";
-import styled from "@emotion/styled";
+The company’s products are consequently sold by various companies across Australia and the globe. Various companies in Brisbane also offer Bosch hot water systems installations, maintenance and repairs. For example, Active Gas [Services](https://web.archive.org/web/20210303115325mp_/https://gasplumbersbrisbane.com.au/the-editor/) deals with commercial and household installation, repair, replacement, servicing and [fitting of Bosch hot water systems and spare parts](https://web.archive.org/web/20210303115325mp_/https://gasplumbersbrisbane.com.au/gas-plumbing-brisbane/). The company requests potential customers to call its service desk for a friendly quote, and it promises to safely and efficiently install a client’s Bosch product. Hotwater Northern Beaches offers same-day Bosch hot water repair [solutions at competitive prices](https://web.archive.org/web/20210303115325mp_/https://gasplumbersbrisbane.com.au/north-brisbane-gas-plumber/).
 
-import * as SocialIcons from "../../icons/social";
-import mediaqueries from "@styles/media";
+With over 100 years of experience in delivering hot water, Bosch has an extensive range of gas continuous flow systems, electric storage tanks, and heat pumps at affordable prices. Furthermore, the company has a fully supported and trained national service network and comprehensive warranty for its customers. Bosch is a world leader in engineering technology, and its hot water systems are available in natural gas or in LPG to suit customers’ needs. The company states that customers who need more information about its products and prices can call and talk to a customer service representative who will comprehensively answer their questions.
 
-const icons = {
-  dribbble: SocialIcons.DribbbleIcon,
-  linkedin: SocialIcons.LinkedinIcon,
-  twitter: SocialIcons.TwitterIcon,
-  facebook: SocialIcons.FacebookIcon,
-  instagram: SocialIcons.InstagramIcon,
-  github: SocialIcons.GithubIcon,
-};
+The Bosch Group comprises Robert Bosch, and it has over 350 subsidiaries and regional corporations in approximately 60 countries. The company employs roughly 400,000 workers in mobility solutions, industrial technology, consumer goods, and in energy and technology. As of 2019, the company’s sales were worth €77.7 billion, and the company is expected to keep growing as it continues to leverage technology to provide high [quality](https://web.archive.org/web/20210303115325mp_/https://gasplumbersbrisbane.com.au/gas-oven-repair-brisbane/) consumer products and services.
 
-const socialQuery = graphql`
-  {
-    allSite {
-      edges {
-        node {
-          siteMetadata {
-            social {
-              name
-              url
-            }
-          }
-        }
-      }
-    }
-  }
-`;
+Because Bosch gas hot water systems heat water only as required, they are energy-saving appliances that are a must-have for any household or commercial business. Furthermore, the company’s instant hotwater systems and gas hotwater heaters do not need an external power or energy source to ignite the pilot light. The instant hotwater gas pilot models offer the perfect solution for budget-sensitive consumers. The company therefore recommends that customers should call or contact the company or its agent via website in order to ask questions or to get a free quote. ![download--18-](https://web.archive.org/web/20210303115325im_/https://gasplumbersbrisbane.com.au/content/images/2021/02/download--18-.png)
 
-function SocialLinks({ fill = "#73737D" }: { fill: string }) {
-  const result = useStaticQuery(socialQuery);
-  const socialOptions = result.allSite.edges[0].node.siteMetadata.social;
+Bosch offers a comprehensive warranty that clients can download and save as a PDF for future reference. The company aims to care for its customers and for their appliances by offering customer service support system, and it recommends that an appliance service and safety inspection be conducted every two years to ensure that customers get the most from their appliances.
 
-  return (
-    <>
-      {socialOptions.map(option => {
-        const Icon = icons[option.name];
+A wide variety of Bosch hot water systems are designed to withstand the strain of supplying hot water to Australian families for many years. The systems are supplied and installed by agents that ensure they use certified technicians who are also experts in Bosch hotwater appliances. Customers however need to check out the hot deals that are available so that they can get high quality products at cheaper rates.
 
-        return (
-          <SocialIconContainer
-            key={option.name}
-            target="_blank"
-            rel="noopener"
-            data-a11y="false"
-            aria-label={`Link to ${option.name}`}
-            href={option.url}
-          >
-            <Icon fill={fill} />
-          </SocialIconContainer>
-        );
-      })}
-    </>
-  );
-}
-```
+The process of calling Bosch’s customer service line or booking for a service online is pretty simple. The quality Bosch hotwater systems and electric storage hot water systems are among the best sellers in the company and are popular with Australian users across the country.
 
-This is another paragraph after the code block.
-
-## This is a secondary heading
-
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
-
-At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
-
-In this article I’ll explain how Gatsby’s lifecycle works and what the Gatsby specific files are for.
-
-One of the challenges I had when learning Gatsby was trying to understand the Gatsby lifecycle. React introduced me to the concept of a Component Lifecycle, but when I started learning Gatsby I felt at a loss again. I remember looking through example repositories and seeing Gatsby specific files in every project and thinking to myself, “What are these files for? Why are gatsby-node.js, gatsby-browser.js, and gatsby-ssr.js generated in the default starter kit? Can I really delete these files?”
-
-In this article I’ll explain the how Gatsby’s lifecycle works and what the Gatsby specific files are for.
-
-## How does Gatsby work?
-
-To understand what these files are for, we must first understand how Gatsby works. Gatsby is a static site generator that pulls data from sources you provide and generates a website/app for you.
-
-Gatsby requires Node to be installed to run the Bootstrap and Build sequences. Under the hood, Gatsby uses Webpack to build and start a development server amongst other things.
-
-### Step 1
-
-During the Bootstrap sequence, which occurs every time you run \$ gatsby develop, there are about 20 events that fire ranging from validating your gatsby-config.js to building the data schemas and pages for your site. For example, the Bootstrap sequence is where Gatsby will create pages. If you want an in depth look of all 20 Bootstrap steps Swyx shared a fantastic Gist that goes into more detail.
-
-### Step 2
-
-The Build sequence is very similar to the Bootstrap sequence, except it’s run with production optimizations and will output static files ready for deployment. Think of it as building your React application in production mode vs development.
-
-### Step 3
-
-And finally, once the generated files are deployed, Gatsby lives in the browser. Gatsby cleverly generates a static website that turns into a web app after initial load, which extends the lifecycle to the browser.
-
-What’s important to remember is that Gatsby’s lifecycle can be aggregated into 3 main sequences:
-
-- Bootstrap
-- Build
-- Browser
-- These three sequences makeup the Gatsby lifecycle.
-
-Parts of the lifecycle are visible when running $ gatsby develop
-A peak into the Gatsby lifecycle when running $ gatsby develop
-A peak into the Gatsby lifecycle when running \$ gatsby develop
-If you’re familiar with React and the component lifecycle, Gatsby’s lifecycle is almost the same concept. Just like React’s lifecycle, Gatsby exposes hooks for developers to build on top of. Those lifecycle hooks are accessed through Gatsby specific files such as gatsby-node.js, gatsby-browser.js and gatsby-ssr.js.
-
-What are the Gatsby specific files for?
-gatsby-config.js
-A place to put all your site configurations such as plugins, metadata, and polyfills. This file is the blueprint of your application and is where Gatsby really shines with its plugin system. When you run $ gatsby develop or $ gatsby build gatsby-config.js is the first file to be read and validated.
-
-Most of your time spent in gatsby-config.js will likely revolve around source plugins, image plugins, offline support, styling options, and site metadata.
-
-gatsby-node.js
-Gatsby runs a Node process when you develop or build your website and uses Webpack under the hood to spin up a development server with hot reloading. During the Node process Gatsby will load plugins, check the cache, bootstrap the website, build the data schema, create pages, and deal with some configuration and data management.
-
-Everything that occurs during the Bootstrap and Build sequences occurs in gatsby-node.js. This means it’s the perfect place to create pages dynamically based off data from a source plugin or modify Gatsby’s Webpack or Babel configs.
-
-For example, if you want to move some files manually, such as a Netlify \_redirects file, a good place to do it is in your gatsby-node.js file at the onPostBuild lifecycle hook.
-
-From experience, most of my time has revolved around handling data and building pages in gatsby-node.js. This file quickly becomes the piping of your entire website.
-
-## Examples of gatsby-node.js hooks:
-
-- createPages
-- onCreateBabelConfig
-- onCreateWebpackConfig
-- onPostBuild
-- gatsby-ssr.js
-
-When you think Server Side Rendering you think of a server that takes in requests and dynamically builds pages and sends it to the client. Gatsby doesn’t do that, but it does server side render — it generates all the pages during build time.
-
-Naturally, gatsby-ssr.js allows developers to hook into that lifecycle. In my experience, most use cases revolve around injecting CSS, HTML, or Redux state information into the generated output. For example, if you need to insert third party scripts such as Analytics Tracking or a Pixel it can be done on the onRenderBody gatsby-ssr.js hook.
-
-## Examples of gatsby-ssr.js hooks:
-
-- onPreRenderHTML
-- onRenderBody
-- replaceRenderer
-- gatsby-browser.js
-
-Gatsby is a static site that loads a dynamic application after initial load, which means you get the benefits of a static site in a web application. gatsby-browser.js provides convenient hooks to deal with app loading, route updates, service worker updates, scroll positioning, and more.
-
-Everything that occurs after your static site has loaded can be hooked in gatsby-browser.js. For apps that I’ve built, gatsby-browser.js was mostly used for keeping track of routes, scroll positioning, and sending analytics events.
-
-## Examples of gatsby-browser.js hooks:
-
-- onClientEntry
-- onRouteUpdate
-- onServiceWorkerInstalled
-- registerServiceWorker
-- shouldUpdateScroll
-
-## Conclusion
-
-Gatsby is built with React at its core and shares a common API pattern, the lifecycle. This lifecycle gives developers access to key moments in their website’s process through specific hooks. For example, adding analytics can be achieved through the Browser lifecycle hook onClientEntry. Gatsby reserves specific filenames as an entry point to access every lifecycle; these files are named gatsby-node.js, gatsby-ssr.js and gatsby-browser.js.
-
-Without the Gatsby lifecycle, it would be impossible to customize and modify your project beyond the base configuration, leaving developers with a rigid and poor developer experience. This power and flexibility has helped us build amazing web projects for clients like Hopper!
-
-Gatsby is a staple within our engineering process at Narative, helping us help our clients build the products they’ve always dreamed of, and the ones they’re yet to dream up.
+Home owners use heat pumps to heat and cool their homes. These pumps can be bought as stand-alone heat pump water heating systems or as a combination water heating and space conditioning system. The system is then installed in locations with a temperature between 40º–90ºF (4.4º–32.2ºC) year-round and with approximately 1,000 cubic feet (28.3 cubic meters) if they are to provide an optimal experience. Companies such as Fallon Solutions are experienced in dealing with all the leading hot water system brands including the service, repair, and installation of Bosch, Rinnai, Quantum, and Saxon heat pumps. Customers should therefore look to such experienced companies if they want to purchase and install reliable products.
