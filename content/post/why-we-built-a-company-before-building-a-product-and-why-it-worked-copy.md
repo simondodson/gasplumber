@@ -1,6 +1,5 @@
 ---
-title: " installation, removal, demolition, replacement, alteration, maintenance,
-  or repair of a gas installation. "
+title: " Gas fitter Brisbane ☎"
 date: 2017-04-30
 hero: "/images/hero-6.jpg"
 excerpt: On the other hand, plumbers perform roof repairs, water leaks, hot water
@@ -13,9 +12,11 @@ authors:
 draft: true
 
 ---
-Gas Fitter Brisbane – Installation, Service and Repair  
+Gas Fitter Brisbane – Installation, Service and Repair
+
+Alliance Plumbing offers gas fitting and replacement, gas hot water repairs and replacement, and services to check for gas leaks. The company suggests that clients should ensure that they call a tradesman who is experienced and equipped to inspect and to resolve their gas problems. Therefore, it is important to seek the advice of a professional who will efficiently check your appliances, detect, and repair the problem before it causes more damage or harm. For example, water heaters that are broken can cause harm to users if they are short-circuited.  
   
-Alliance Plumbing offers gas fitting and replacement, gas hot water repairs and replacement, and services to check for gas leaks. The company suggests that clients should ensure that they call a tradesman who is experienced and equipped to inspect and to resolve their gas problems. Therefore, it is important to seek the advice of a professional who will efficiently check your appliances, detect, and repair the problem before it causes more damage or harm. For example, water heaters that are broken can cause harm to users if they are short-circuited.
+installation, removal, demolition, replacement, alteration, maintenance, or repair of a gas installation.
 
 Conrad Martens Plumbing is a Brisbane gas fitter that specializes in gas fitting and installation needs. They offer a full range of services which include repair, installation and maintenance. The experts work full time in order offer same-day response for various services that are related to gas services such as gas hot water systems, cooktops, and emergency gas fitting. The company has diverse experts who hold gas, plumbing and restricted electrical licenses and this enables it to undertake a wide variety of jobs. While this could make it seem like the company’s workload for its employees is heavy, Conrad Martens states that its gas fitters are highly trained and experienced in a wide range of technical gas fitting scenarios.
 
@@ -153,9 +154,5 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
 * Unordered list can use asterisks
-
-
 * Or minuses
-
-
 * Or pluses
