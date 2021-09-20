@@ -2,8 +2,8 @@
 title: 'Best plumbers in Brisbane South '
 date: 2017-04-28
 hero: "/images/opera-snapshot_2021-09-20_205805_yandex-com.png"
-excerpt: With the growing community interest in Gatsby, we hope to create more resources
-  that make it easier for anyone to grasp the power of this incredible tool.
+excerpt: South Brisbane has numerous gas plumbers that are licensed, qualified and
+  customer friendly.
 timeToRead: 4
 authors:
 - Dennis Brotzky
