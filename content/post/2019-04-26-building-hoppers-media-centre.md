@@ -1,249 +1,39 @@
 ---
-title: Why Narative loves Gatsby's approach to websites
-date: 2019-04-26
-hero: /images/hero-3.jpg
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
+title: North Brisbane Gas Plumber
+date: 2021-04-21T17:00:00+00:00
+hero: "/images/opera-snapshot_2021-09-20_205527_yandex-com.png"
+excerpt: 'The Brisbane Plumbers pride themselves on the use of CCTV cameral inspection
+  and location 7 days a week. '
 timeToRead: 8
-authors:
-  - Dennis Brotzky
+authors: []
 
 ---
+* North Brisbane Has An Abundance Of Certified And Qualified Gas Fitters And Plumbers.
+* They Deal With Complex Gas-Related Issues That Customers Should Not Attempt On Their Own.
+* However, The Availability Of Technological Gadgets Has Made Gas And Plumbing Services Swifter, More Efficient And In General More Accurate And Ultimately Increased Customer Satisfaction With The Final Service Offered.
 
-To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer, I’ve been crafting digital experiences for the past ten years, having contributed to the growth of companies such as Hopper, Lightspeed, and Breather, among others. Throughout this journey, I’ve had the opportunity to meet the most talented designers, engineers, growth marketers, and build a world-class team to develop startups worldwide. We call this team Narative.
+There are many gas fitters and plumbers in North Brisbane. They include AC Plumbing, Fallon Solutions, Brisbane Plumbing & Drainage, AK Gas & Plumbing, Ryan Old Plumbing, and many more. These are all professional plumbing services that have years of industry experience and teams of specialist gas plumbers that offer some of the best service around. From servicing and installations to repairs and maintenance of commercial and household [plumbing solutions](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/), their results are guaranteed. They [offer specialized plumbing services for blocked drains](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/publishing-options/), hot water services, gas installations and repairs, and other maintenance plumbing services. These providers are only a phone call away in case of [emergency plumbing problems](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/best-gas-hot-water-system/). Additionally, they also have website pages that provide detailed information about their services.
 
-Narative is a studio based in 3 different cities around the world; so right off the bat we’re already facing a challenge; geography.
+![download--14-](https://web.archive.org/web/20210303115517im_/https://gasplumbersbrisbane.com.au/content/images/2021/02/download--14-.png)
 
-We came across Figma a few weeks before engaging in our first project. It’s worth noting that, I’ve been using Sketch for several years before Narative, and getting out of your comfort zone can be scary.
+These Brisbane-based gas plumbers provide emergency service for those unexpected events. For example, Fallon Solutions claims that it offers services whose time is guaranteed, it has upfront standardized prices, and a guarantee of 100% perfect workmanship. Burst Plumbing offers gas fitting services for commercial and residential clients for their heaters, deep fryers, ovens, and cooktops. The company also offers same-day call out for leaks and emergencies for instance for hot water problems, and customers can quickly contact them for a free quote through their website or by telephone.
 
-Just thinking about re-learning a new tool, transferring past designs, plugins and projects I’ve been working on for years, started to give me anxiety.
-Luckily, the transition was more than natural. Working on Figma was second-nature and, two weeks in, it became my daily driver. In three weeks, I became a fan, and today I am probably an advocate. Here are eight reasons why.
+For burst pipes, blocked drains, taps, toilets, and general plumbing maintenance, call Conrad Martens Plumbing & Hot Water, who are specialists in plumbing and gas solutions. Jim’s Plumbing is another professional service provider that deals with issues related to blocked drains, gas leak repairs, gas hot [water systems](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/bosch-hot-water-brisbane/), gas fitting for heaters, ovens, barbeques, and many more. Each company in the area offers competitive prices and promises a unique and satisfying experience, so customers should expect their jobs to be done perfectly and on time.
 
-## Easy migration
+Therefore, individuals who are interested in working as gas fitters should be reliable and hard working individuals who want to grow and also to grow their companies. This is a great career opportunity that also offers high wages for skilled maintenance plumbers. What entrants into the gas fitting industry must understand is that many plumbing and gas issues mostly need to be taken care of quickly, and that is why plumbing specialists need to be fast in responding and ensuring that they offer appropriate solutions for their customers.
 
-Not much to say here. You literally just have to copy your art-boards — or as they call it, frames — then paste them into Figma. Simple as that. The platform is very forgiving and prepared for transitions.
+Gas fitters in Brisbane North are specialized in installations, gas leak detection, repairs, and cooktop installations. Most of these companies have skilled [tradesmen who hold gas fitting](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/gas-plumbing-brisbane/), plumbing, drainage, and restricted electrical [licenses](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/south-brisbane-gas-plumber-2/) to ensure that they give first-class solutions to all customers. They also have emergency after-hours plumbers who can deal with any urgent gas and plumbing issues in Brisbane Northside. Conrad Martens Plumbing & Hot Water uses audio monitoring equipment to pinpoint defects in water and gas services and ultimately to ensure that customers get working solutions to their problems.
 
-## Zero file management
+Brisbane’s residential, commercial, real estate, and body corporate consumers rely on reputable companies for their electric, gas, solar, and heat pump water heaters to function properly. Rather than doing their own repairs and making things worse, most customers nowadays realize that using specialists offers more convenience and surety that a repair or installation project will be successful. This is because even though [appliances come with manuals and even with instructions](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/the-editor/), it is not easy for a layman to do a perfect job by themselves.
 
-What does that mean? Sketch, Framer, Adobe XD or even Photoshop are native apps where you inherently need to save your work. Some tools have auto-save, of course, but you still end up with hundreds of megabytes and even gigabytes on your drive. And yes, if you lose your disk, break your computer somehow, or have your dog eat your SSD, you will lose your files completely.
+Brisbane Plumbing and Drainage states that it is prepared to solve its customers’ emergency, gas, plumbing, drainage, or roof issues. The company argues that it is always committed to providing the best services and to eliminate customers’ plumbing problems once and for all. This family-run business states that it completes work in a timely manner and provides no obligation quotes. S & J Plumbing recommends that when it comes to plumbing and drainage, customers should avoid DIY projects otherwise they might damage their [expensive appliances](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/welcome/). However, it is also important to ensure that the gas plumber also has a valid license and certification.
 
-Not with Figma. Not having to command+s is a big deal. Figma is a web-based software, meaning you never need to upload, download, or worry about versions again. Imagine a Google Docs for design, keeping all my projects organized in one app, in the cloud. One single source of truth for design files.
+Gas fitters in Brisbane make on-site visits to family homes and to commercial businesses, and they always come prepared with many common spare parts in order to save time. This is particularly useful because many Australians rely on Rinnai, Rheem, Bosch, and Thermann gas, electric, solar, and heat pump hot water systems, so the fitters always have such spares on hand.
 
-I probably saved more than 30GB of disk space by migrating my projects to Figma, and now I can access them from anywhere.
+CCTV cameras are fast becoming an important tool in drain inspections in order to eliminate guesswork in the repair and clearing of blockages. Many companies in Brisbane have adopted the use of CCTV for this purpose. For example, The Brisbane Plumbers pride themselves on the use of CCTV cameral inspection and location 7 days a week. They use this tool in conjunction with high pressure jetters to clear drains and to get accurate analyses of drains and thus to determine the root cause of many problems. In previous years, such companies were forced to excavate large spaces in order to find this information, but the CCTV technology has made it easier for the specialists to find pertinent information for a plumbing project. Cottee Plumbing, Conrad Martens, and Emu Plumbing, among others, also use CCTV inspection to effectively perform plumbing jobs.
 
-## Figma is platform-agnostic
+Plumbing problems can occur when lime-scale builds up and impedes effective water flow to appliances and fixtures. Plus, hard water stains are annoying to deal with. Therefore, anyone who needs to reduce problems related to hard water should call plumbers to install water softener systems that will protect the home and the appliances. These gas fitters and plumbers also replace filter cartridges and install expert whole house water filter systems that ensure drinking and bathing water are safe with a reliable filtration system that eliminates the contaminants which can affect health. Garbage disposals are great appliances that make household duties less demanding. However, if they are not properly maintained, they can easily break down, block, and clog drains and cause numerous and costly plumbing and drain nightmares. Following simple maintenance tips should nevertheless keep the garbage disposal working smoothly for many years and reduce the need for seeking expert drain cleaning services. Some tips include using borax to clean and sanitize garbage disposals and tossing a lemon peel in the disposal to freshen drain smells. Dishwashers are another important kitchen appliance, but they tend to form bad odors, drain poorly, or leak with regular use. One troubleshooting tip when the dishwasher won’t drain is to check the drain hose for kinks and ensure that is it elevated, particularly after you have cleaned the [filter or trap at the bottom of the appliance](https://web.archive.org/web/20210303115517mp_/https://gasplumbersbrisbane.com.au/rinnai-gas-repair/).
 
-One of the best features of a web-based software is the fact you’re no longer stuck with an operating system. You can run it right from the browser or from their native app, that’s essentially a wrapper. I’m able to seamlessly start a project on my iMac Pro at my home office, and continue on my Surface Book 2 on the go. That’s huge.
+![download--16-](https://web.archive.org/web/20210303115517im_/https://gasplumbersbrisbane.com.au/content/images/2021/02/download--16-.png)
 
-Additionally, you’ll always have the latest version, with no need to download painful software updates. The “cloud” is finally making sense in 2018.
-
-## Performance
-
-You may be thinking that running a full-fledged design app from the web has huge performance drawbacks. I thought the same, but was I ever wrong.
-
-I’ve always had full-spec computers running Sketch, still, ever so often I’d run into performance hiccups or memory drainage. That’s never happened with Figma, which is pretty magical.
-
-I continually forget that I’m running a huge project in a “webpage”, and as soon as I remember, it always blows my mind because of how fast it is.
-Components and styles
-This is a feature that most product design tools have, but for some reason, it’s slightly more polished on Figma.
-
-At Narative, as we constantly change projects, styles and teams, one of the best ways for us to keep in sync is by publishing components. Even in different projects, or “files”, we can load components and libraries from previous projects, allowing us to be extremely efficient and consistent.
-
-Building components such as buttons, modals, and form fields is awesome. Say you build 30 pages using one single library of components, and if you ever decide to update the style of a button from this library, for example, you simply update the master and, voilà — all 30 pages will have the brand new and updated button.
-
-## Our engineers love it
-
-From an engineering perspective, it’s extremely efficient having our projects centralized in one platform. In the past, every time I updated a project, I had to manually sync my designs through a plugin into a third-party “inspection” platform where engineers would have access to. Although this method works, it’s not ideal in a fast-paced project development.
-
-With Figma, engineers see changes in real time, allowing them to participate in every step of the project, from wireframes to design.
-
-Design Programmatically is key for us, so our engineers can simultaneously work on developing components while us, designers, progress with the design creation and copywriters progress with content. We essentially have all of the tools we need to create dynamic, digital products in one place.
-
-## Tabs!
-
-One of my favourite features, and probably something I took for granted in the past is the ability to open projects in tabs.
-
-And damn. It's fast.
-And damn. It's fast.
-Like a browser, the Figma app allows you to have several tabs open so you can jump back and forth between pages rather than having multiple windows messing up your desktop. I probably increased my efficiency by 50% or more being able to have several projects open, without eating my RAM alive.
-
-## Power to our team
-
-Back to my initial point, collaboration is key for a company like Narative. Especially with a team overseas. Working on Figma, however, regardless of where you are in the world, it’s like working right next to each other.
-
-It’s tough to express just how efficient we’ve become, with everyone having access to one single file, at the same time.
-I design simultaneously with our copywriter, while our developer watches our progress, providing relevant comments. Again, it’s magical. Exporting images, SVGs, colors, and even CSS styles, is as simple as right-clicking and copying.
-
-## Conclusion
-
-Figma is not only a full-fledged design tool but the best I’ve used in years. It speaks volumes regarding just how much its creators considered the future.
-
-Witnessing forward-thinking products is not only refreshing but extremely inspirational to know there are teams working hard to support companies such as Narative to succeed. From drafting our first ideas to real prototypes, all while reducing the friction of turning visual concepts into code.
-
-If you're still not sure, you should definitely try it out. It's free.
-
-```js
-import React from "react";
-import { graphql, useStaticQuery } from "gatsby";
-import styled from "@emotion/styled";
-
-import * as SocialIcons from "../../icons/social";
-import mediaqueries from "@styles/media";
-
-const icons = {
-  dribbble: SocialIcons.DribbbleIcon,
-  linkedin: SocialIcons.LinkedinIcon,
-  twitter: SocialIcons.TwitterIcon,
-  facebook: SocialIcons.FacebookIcon,
-  instagram: SocialIcons.InstagramIcon,
-  github: SocialIcons.GithubIcon,
-};
-
-const socialQuery = graphql`
-  {
-    allSite {
-      edges {
-        node {
-          siteMetadata {
-            social {
-              name
-              url
-            }
-          }
-        }
-      }
-    }
-  }
-`;
-
-function SocialLinks({ fill = "#73737D" }: { fill: string }) {
-  const result = useStaticQuery(socialQuery);
-  const socialOptions = result.allSite.edges[0].node.siteMetadata.social;
-
-  return (
-    <>
-      {socialOptions.map(option => {
-        const Icon = icons[option.name];
-
-        return (
-          <SocialIconContainer
-            key={option.name}
-            target="_blank"
-            rel="noopener"
-            data-a11y="false"
-            aria-label={`Link to ${option.name}`}
-            href={option.url}
-          >
-            <Icon fill={fill} />
-          </SocialIconContainer>
-        );
-      })}
-    </>
-  );
-}
-```
-
-This is another paragraph after the code block.
-
-## This is a secondary heading
-
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
-
-At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
-
-In this article I’ll explain how Gatsby’s lifecycle works and what the Gatsby specific files are for.
-
-One of the challenges I had when learning Gatsby was trying to understand the Gatsby lifecycle. React introduced me to the concept of a Component Lifecycle, but when I started learning Gatsby I felt at a loss again. I remember looking through example repositories and seeing Gatsby specific files in every project and thinking to myself, “What are these files for? Why are gatsby-node.js, gatsby-browser.js, and gatsby-ssr.js generated in the default starter kit? Can I really delete these files?”
-
-In this article I’ll explain the how Gatsby’s lifecycle works and what the Gatsby specific files are for.
-
-## How does Gatsby work?
-
-To understand what these files are for, we must first understand how Gatsby works. Gatsby is a static site generator that pulls data from sources you provide and generates a website/app for you.
-
-Gatsby requires Node to be installed to run the Bootstrap and Build sequences. Under the hood, Gatsby uses Webpack to build and start a development server amongst other things.
-
-### Step 1
-
-During the Bootstrap sequence, which occurs every time you run \$ gatsby develop, there are about 20 events that fire ranging from validating your gatsby-config.js to building the data schemas and pages for your site. For example, the Bootstrap sequence is where Gatsby will create pages. If you want an in depth look of all 20 Bootstrap steps Swyx shared a fantastic Gist that goes into more detail.
-
-### Step 2
-
-The Build sequence is very similar to the Bootstrap sequence, except it’s run with production optimizations and will output static files ready for deployment. Think of it as building your React application in production mode vs development.
-
-### Step 3
-
-And finally, once the generated files are deployed, Gatsby lives in the browser. Gatsby cleverly generates a static website that turns into a web app after initial load, which extends the lifecycle to the browser.
-
-What’s important to remember is that Gatsby’s lifecycle can be aggregated into 3 main sequences:
-
-- Bootstrap
-- Build
-- Browser
-- These three sequences makeup the Gatsby lifecycle.
-
-Parts of the lifecycle are visible when running $ gatsby develop
-A peak into the Gatsby lifecycle when running $ gatsby develop
-A peak into the Gatsby lifecycle when running \$ gatsby develop
-If you’re familiar with React and the component lifecycle, Gatsby’s lifecycle is almost the same concept. Just like React’s lifecycle, Gatsby exposes hooks for developers to build on top of. Those lifecycle hooks are accessed through Gatsby specific files such as gatsby-node.js, gatsby-browser.js and gatsby-ssr.js.
-
-What are the Gatsby specific files for?
-gatsby-config.js
-A place to put all your site configurations such as plugins, metadata, and polyfills. This file is the blueprint of your application and is where Gatsby really shines with its plugin system. When you run $ gatsby develop or $ gatsby build gatsby-config.js is the first file to be read and validated.
-
-Most of your time spent in gatsby-config.js will likely revolve around source plugins, image plugins, offline support, styling options, and site metadata.
-
-gatsby-node.js
-Gatsby runs a Node process when you develop or build your website and uses Webpack under the hood to spin up a development server with hot reloading. During the Node process Gatsby will load plugins, check the cache, bootstrap the website, build the data schema, create pages, and deal with some configuration and data management.
-
-Everything that occurs during the Bootstrap and Build sequences occurs in gatsby-node.js. This means it’s the perfect place to create pages dynamically based off data from a source plugin or modify Gatsby’s Webpack or Babel configs.
-
-For example, if you want to move some files manually, such as a Netlify \_redirects file, a good place to do it is in your gatsby-node.js file at the onPostBuild lifecycle hook.
-
-From experience, most of my time has revolved around handling data and building pages in gatsby-node.js. This file quickly becomes the piping of your entire website.
-
-## Examples of gatsby-node.js hooks:
-
-- createPages
-- onCreateBabelConfig
-- onCreateWebpackConfig
-- onPostBuild
-- gatsby-ssr.js
-
-When you think Server Side Rendering you think of a server that takes in requests and dynamically builds pages and sends it to the client. Gatsby doesn’t do that, but it does server side render — it generates all the pages during build time.
-
-Naturally, gatsby-ssr.js allows developers to hook into that lifecycle. In my experience, most use cases revolve around injecting CSS, HTML, or Redux state information into the generated output. For example, if you need to insert third party scripts such as Analytics Tracking or a Pixel it can be done on the onRenderBody gatsby-ssr.js hook.
-
-## Examples of gatsby-ssr.js hooks:
-
-- onPreRenderHTML
-- onRenderBody
-- replaceRenderer
-- gatsby-browser.js
-
-Gatsby is a static site that loads a dynamic application after initial load, which means you get the benefits of a static site in a web application. gatsby-browser.js provides convenient hooks to deal with app loading, route updates, service worker updates, scroll positioning, and more.
-
-Everything that occurs after your static site has loaded can be hooked in gatsby-browser.js. For apps that I’ve built, gatsby-browser.js was mostly used for keeping track of routes, scroll positioning, and sending analytics events.
-
-## Examples of gatsby-browser.js hooks:
-
-- onClientEntry
-- onRouteUpdate
-- onServiceWorkerInstalled
-- registerServiceWorker
-- shouldUpdateScroll
-
-## Conclusion
-
-Gatsby is built with React at its core and shares a common API pattern, the lifecycle. This lifecycle gives developers access to key moments in their website’s process through specific hooks. For example, adding analytics can be achieved through the Browser lifecycle hook onClientEntry. Gatsby reserves specific filenames as an entry point to access every lifecycle; these files are named gatsby-node.js, gatsby-ssr.js and gatsby-browser.js.
-
-Without the Gatsby lifecycle, it would be impossible to customize and modify your project beyond the base configuration, leaving developers with a rigid and poor developer experience. This power and flexibility has helped us build amazing web projects for clients like Hopper!
-
-Gatsby is a staple within our engineering process at Narative, helping us help our clients build the products they’ve always dreamed of, and the ones they’re yet to dream up.
+In continuation of the tips above, it is important to ask for options from specialists when a section of a drain pipe is damaged and needs repair. This is because it is not always necessary to make an overhaul. Instead, the plumbers can suggest that they repair a section, do a reline patch, or dig up and remove the entire pipe depending on the severity of the problem. Leaks can also cause a lot of damage, so plumbers who use high tech gadgets and technology to quickly detect such leaks are in demand. For instance, LeakTech uses a combination of highly skilled technicians and technologies that include acoustic detection, thermal imaging, tracer gas technology, data logging, and correlation to detect leaks during client projects. This enables the company’s technicians to accurately, swiftly and efficiently locate hidden and difficult leaks without damaging any property. Gas fitters can also detect gas leaks swiftly and effectively using technology linked with infrared, acoustic detection, and calculators. In general, gas fitting and plumbing jobs should be left to the specialists who will be able to effectively diagnose a problem and suggest an appropriate and long term solution.
