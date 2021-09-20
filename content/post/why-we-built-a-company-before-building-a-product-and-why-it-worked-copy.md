@@ -1,7 +1,7 @@
 ---
 title: " Gas fitter Brisbane ☎"
 date: 2017-04-30
-hero: "/images/hero-6.jpg"
+hero: "/images/sign-brisbane-australia-shutterstock_653372386.jpg"
 excerpt: On the other hand, plumbers perform roof repairs, water leaks, hot water
   maintenance, drainage services, and piping, among other jobs.
 timeToRead: 3
